@@ -12,7 +12,7 @@
     }
     div{
         background-color: black;
-        color: width;
+        color: white;
     }
 </style>
 <body>
